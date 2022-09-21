@@ -1,9 +1,8 @@
-
-
-
 #title{padding:0 10%;
+   
     background-color: #000;
     height: 700px;
+    
 }
 
 
@@ -16,3 +15,15 @@
 .apple{
     width: 70%;
 }
+.d-grid .btn-link{
+    text-decoration: none;
+}
+
+/* @media (max-width: 667px;)
+{ #title{position: relative;}
+    .apple {
+        width: 350px;
+        position: absolute;
+        left: 5px;
+    }
+} */
